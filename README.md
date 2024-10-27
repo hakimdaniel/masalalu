@@ -36,7 +36,7 @@ digabungkan
 <tahun><bulan><hari>T<jam><minit><saat>
 ```
 
-#credits
+# credits
 - @hakimdaniel
 
 ##### Support buatan anak malaysia
