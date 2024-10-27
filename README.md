@@ -21,11 +21,11 @@ letakkan di konten anda dan ubah pada tarikh masa itu.
 
 <time class="masa-lalu" datetime="2024-10-26T10:20:00">Sekarang</time>
 ```
-class "masa-lalu" ialah untuk update display setiap satu minit
+class `masa-lalu` ialah untuk update display setiap satu minit
 
-Attribute "datetime" declare masa yang ditetapkan dan compare dengan masa sekarang pada masa itu.
+Attribute `datetime` declare masa yang ditetapkan dan compare dengan masa sekarang pada masa itu.
 
-Format "2024-09-20T12:00:00"
+Format ``2024-09-20T12:00:00``
 
 dikiri/sebelum `T` ialah tarikh `\<tahun>\<bulan>\<hari>`
 
