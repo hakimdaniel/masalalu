@@ -35,3 +35,6 @@ digabungkan
 ```
 <tahun><bulan><hari>T<jam><minit><saat>
 ```
+
+#credits
+- @hakimdaniel
