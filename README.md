@@ -6,7 +6,7 @@ Link-kan source code script javascript masa.js ke source code website anda.
 
 letakkan di akhir sebelum penutup body
 ```html
-<script src="https://hakimdaniel.github.io/masalalu/masa.jd"></script>
+<script src="https://hakimdaniel.github.io/masalalu/masa.js"></script>
 ```
 
 dan seterusnya anda boleh terus menggunakannya.
