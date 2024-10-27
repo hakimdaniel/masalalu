@@ -4,9 +4,14 @@ Ini lah script javascript menetapkan masa lalu seperti timeago.js, tetapi ini re
 # penggunaan
 Link-kan source code script javascript masa.js ke source code website anda.
 
-letakkan di akhir sebelum penutup body
+letakkan di akhir sebelum penutup body `masa.js` (raw)
 ```html
 <script src="https://hakimdaniel.github.io/masalalu/masa.js"></script>
+```
+
+versi yang lebih ringan dan dimampatkan `masa.min.js` (minified)
+```html
+<script src="https://hakimdaniel.github.io/masalalu/masa.min.js"></script>
 ```
 
 dan seterusnya anda boleh terus menggunakannya.
