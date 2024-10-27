@@ -1,5 +1,5 @@
 # masalalu
-Ini lah script javascript menetapkan masa lalu seperti timeago.js, tetapi ini rekaan sendiri dari AI ChatBot.
+Ini lah script javascript menetapkan masa lalu seperti timeago.js, tetapi ini rekaan sendiri dalam bahasa melayu.
 
 # penggunaan
 Link-kan source code script javascript masa.js ke source code website anda.
