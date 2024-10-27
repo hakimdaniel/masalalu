@@ -1,5 +1,5 @@
 // Fungsi untuk mengira masa berlalu dalam bahasa Melayu
-function timeAgo(datetime) {
+function masaLalu(datetime) {
   // Tukarkan nilai tarikh ke dalam format timestamp
   const time = new Date(datetime).getTime();
   const sekarang = new Date().getTime(); // Masa sekarang
@@ -51,7 +51,7 @@ function startDynamicUpdate(element) {
 
   // Fungsi untuk kemas kini teks masa jika diperlukan
   function updateIfNeeded() {
-    const newText = timeAgo(datetime); // Kira masa berlalu
+    const newText = masaLalu(datetime); // Kira masa berlalu
     if (element.innerText !== newText) { // Jika teks telah berubah
       element.innerText = newText; // Kemas kini teks dalam elemen
     }
@@ -63,6 +63,6 @@ function startDynamicUpdate(element) {
 }
 
 // Memulakan fungsi `timeAgo` untuk semua elemen dengan kelas `time-ago`
-document.querySelectorAll('.time-ago').forEach(el => startDynamicUpdate(el));
+document.querySelectorAll('.masa-lalu').forEach(el => startDynamicUpdate(el));
 
 console.log("Fungsi masalalu : made with github @hakimdaniel");
