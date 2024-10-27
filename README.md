@@ -27,9 +27,9 @@ Attribute `datetime` declare masa yang ditetapkan dan compare dengan masa sekara
 
 Format ``2024-09-20T12:00:00``
 
-dikiri/sebelum `T` ialah tarikh `\<tahun>\<bulan>\<hari>`
+dikiri/sebelum `T` ialah tarikh `<tahun><bulan><hari>`
 
-dikanan/selepas `T` ialah masa `\<jam>\<minit>\<saat>`
+dikanan/selepas `T` ialah masa `<jam><minit><saat>`
 
 digabungkan
 ```
