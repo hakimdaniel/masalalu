@@ -38,3 +38,5 @@ digabungkan
 
 #credits
 - @hakimdaniel
+
+## Support buatan anak malaysia
