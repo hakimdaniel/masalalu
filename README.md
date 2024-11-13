@@ -38,7 +38,7 @@ dikanan/selepas `T` ialah masa `<jam><minit><saat>`
 
 digabungkan
 ```
-<tahun><bulan><hari>T<jam><minit><saat>
+<tahun>-<bulan>-<hari>T<jam>:<minit>:<saat>
 ```
 
 # credits
